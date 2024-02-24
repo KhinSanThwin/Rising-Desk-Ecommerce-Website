@@ -450,13 +450,6 @@ body {
   box-sizing: border-box;
 }
 
-.our-contact .email {
-  font-size: 12px;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
-
 .ring,
 .mail,
 .dm {
